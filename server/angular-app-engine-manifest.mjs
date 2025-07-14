@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://github.com/Soucklast/login_productos',
+  basePath: '/proyecto_login_api',
   supportedLocales: {
   "en-US": ""
 },

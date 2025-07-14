@@ -1,6 +1,6 @@
 {
   "routes": {
-    "/Soucklast/login_productos": {},
-    "/Soucklast/login_productos/login": {}
+    "/proyecto_login_api": {},
+    "/proyecto_login_api/login": {}
   }
 }
