@@ -1,6 +1,6 @@
 {
   "routes": {
-    "/proyecto_login_api": {},
-    "/proyecto_login_api/login": {}
+    "/login_productos": {},
+    "/login_productos/login": {}
   }
 }

@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/proyecto_login_api',
+  basePath: '/login_productos',
   supportedLocales: {
   "en-US": ""
 },
